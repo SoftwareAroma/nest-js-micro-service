@@ -1,0 +1,28 @@
+check-in.code-workspace
+**.*-workspace
+**/.DS_Store
+**/.vscode
+**/.idea
+**/node_modules
+**/dist
+**/build
+**/coverage
+**/temp
+**/temp-*
+
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Build files
+dist/
+
+# Environment variables
+.env
+
+# Miscellaneous
+.DS_Store
